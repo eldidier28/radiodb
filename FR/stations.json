@@ -35,14 +35,14 @@
       },
       {
         "id": "FR4",
-        "name": "Virgin Radio",
+        "name": "Europe 2",
         "country": "France",
-        "description": "Pop-Rock-Electro",
+        "description": "Le meilleur son",
         "genre": "Pop-Rock-Electro",
         "frequency": 103.5,
-        "mp3Stream": "https://stream.virginradio.fr/virgin.aac?aw_0_1st.playerid=lagardereWebVirgin",
-        "aacStream": "",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Virgin_radio_fr.png"
+        "mp3Stream": " http://ais-live.cloud-services.paris/europe2.mp3",
+        "aacStream": "http://ais-live.cloud-services.paris/europe2.aac",
+        "imageUrl": "https://commons.wikimedia.org/w/index.php?title=File:Europe_2_(2023_-).svg&lang=fr&uselang=fr"
       },
       {
         "id": "FR5",
